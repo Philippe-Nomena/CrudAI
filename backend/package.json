@@ -1,0 +1,21 @@
+{
+  "name": "crud-generator-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI-powered CRUD generator",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "archiver": "^6.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "groq-sdk": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
