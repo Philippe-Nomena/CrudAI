@@ -1,5 +1,5 @@
 {
-  "name": "crud-generator-backend",
+  "name": "crudai-backend",
   "version": "1.0.0",
   "description": "Backend for AI-powered CRUD generator",
   "main": "src/index.js",
